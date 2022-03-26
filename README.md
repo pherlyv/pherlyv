@@ -5,7 +5,7 @@
 
 - :mortar_board: I'm a student on QA course by Vadim Ksendzov
 - :book: I’m currently learning tools QA and coding in python
-- 💞️ I’m looking to collaborate on ...
+- :hourglass: In my free time I play musical instruments:musical_keyboard: and make abstract art in Cinema 4D
 - 📫 How to reach me ...
 
 <!---
